@@ -22,7 +22,7 @@
 <br/>
 
 ### 路由端屏蔽规则
-1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git  <br/>
+1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://raw.sevencdn.com/project-lede/koolproxy/main/rules/kpr_our_rule.txt  <br/>
 视频规则：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat  <br/>
 每日规则：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/daily.txt  <br/>
 静态规则：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt  <br/>
