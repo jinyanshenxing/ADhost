@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 <br/>
 2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：[国内]（https://anti-ad.win/easylist.txt）  [国外]（https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt）
 <br/>
-3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt 
+3.[halflife](https://adf.minggo.eu.org)： https://halflife.coding.net/p/list/d/list/git/raw/master/ad.txt
 <br/>
 4.[EasyList](https://easylist.to/)：https://easylist-downloads.adblockplus.org/easyprivacy.txt
 <br/>
