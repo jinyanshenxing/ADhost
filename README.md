@@ -57,6 +57,8 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 <br/>
 7.I don't care about cookies：https://www.i-dont-care-about-cookies.eu/abp/  （屏蔽网站的 cookies 相关的警告）
 <br/>
+8.GoodbyeAds 大全去广告：https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
+<br/>
 
 
 <h3>去广告效果检测网站</h3>
